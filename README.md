@@ -1,4 +1,4 @@
-# Olá, eu sou arfrei47! 👋
+# Olá, eu sou ARFrei47! 👋
 
 Bem-vindo(a) ao meu perfil no GitHub. Aqui compartilho projetos, ideias e experiências que unem tecnologia, investigação digital e um toque de aventura!
 
@@ -13,31 +13,30 @@ Bem-vindo(a) ao meu perfil no GitHub. Aqui compartilho projetos, ideias e experi
 
 - Segurança da Informação & Resposta a Incidentes
 - Análise Forense e Perícia Digital
-- Programação (preencher linguagens favoritas)
+- Programação (Python, C++, Solidity)
 - Redes de Computadores
-- Desenvolvimento Web (preencher frameworks e tecnologias)
-- (Adicionar outras habilidades técnicas)
+- Desenvolvimento Web (HTML, CSS, JavaScript, Bootstrap, React)
+- Inglês e Espanhol
 
 ## 🌐 Links & Contato
 
-- Site pessoal: [Preencher](#)
+- Site: [Preencher](#)
 - Portfólio: [Preencher](#)
-- LinkedIn: [Preencher](#)
-- Instagram: [Preencher](#)
-- Outros: [Preencher](#)
+- LinkedIn: [in/arfrei47](https://www.linkedin.com/in/arfrei47/)
+- Instagram: [arfrei47](https://www.instagram.com/arfrei47)
+- Outros: [Facebook](https://www.facebook.com/arfrei47)
 
 ## 🚀 Projetos em Destaque
 
-- [Nome do Projeto 1](#) — Descrição breve do projeto.
-- [Nome do Projeto 2](#) — Descrição breve do projeto.
-- (Adicionar outros projetos e links)
+- [Beqa Token](#) — Descrição breve do projeto.
+- [DAO Beqa](#) — Descrição breve do projeto.
+- [ENIGMA](#) — Descrição breve do projeto.
 
 ## 🎒 Interesses & Curiosidades
 
 - Apaixonado por **camping selvagem** e criação de conteúdo mochileiro.
 - Praticante de **Re ligare** (teosofia), exemplo: Rosa Cruz.
 - Sempre em busca de novos conhecimentos e desafios!
-- (Adicionar hobbies, certificações, eventos etc.)
 
 ## 📫 Fale comigo
 
